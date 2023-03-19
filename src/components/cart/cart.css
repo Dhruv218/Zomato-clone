@@ -1,0 +1,59 @@
+.flex-box-row {
+    justify-content: center;
+}
+
+.food-img-v2 {
+    width: 95px;
+    height: 71px;
+    margin-right: 1rem;
+    border-radius: 5px;
+}
+
+.cart-item-heading {
+    font-size: 20px;
+    font-weight: 600;
+    margin: 10px 0px;
+    padding-left: 10px;
+    color: rgb(133, 129, 129);
+    border-left: 3px solid rgb(239, 79, 95);
+}
+
+.quantity {
+    width: 20px;
+    padding: 1px;
+    margin: 0px auto;
+}
+
+.cart-box h5 {
+    margin-block: 10px 0px;
+}
+
+.sub-value {
+    color: rgb(133, 129, 129);
+}
+
+.cart-box h3 {
+    margin-block: 10px 0px;
+
+}
+
+.Checkout {
+    width: 100%;
+    padding: 10px;
+    margin: 10px auto;
+    border-radius: 5px;
+    border: none;
+    background: rgb(239, 79, 95);
+    font-size: 20px;
+    font-weight: 500;
+    color: rgb(255, 255, 255) !important;
+    cursor: pointer;
+}
+
+.Checkout:hover {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.price {
+    font-size: 0.83rem !important;
+}
